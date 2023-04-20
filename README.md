@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Header](https://github.com/innakibalina/innakibalina/blob/master/assets/Новое%20изображение.jpg)](https://www.linkedin.com/in/inna-kibalina-54293026a/)
 
 <!--
 **innakibalina/innakibalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
