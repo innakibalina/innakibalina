@@ -1,16 +1,17 @@
 [![Header](https://github.com/innakibalina/innakibalina/blob/master/assets/Новое%20изображение.jpg)](https://www.linkedin.com/in/inna-kibalina-54293026a/)
 
-<!--
-**innakibalina/innakibalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Меня зовут Инна. Я - начинающий тестировщик.
 
-Here are some ideas to get you started:
+### Навыки, языки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github](https://img.shields.io/badge/-Github-FFB6C1?style=for-the-badge&logo=Github)
+![Jira](https://img.shields.io/badge/-Jira-DB7093?style=for-the-badge&logo=Jira&logoColor=FFB6C1)
+![Github](https://img.shields.io/badge/-Github-FFB6C1?style=for-the-badge&logo=Github)
+![Github](https://img.shields.io/badge/-Github-FFB6C1?style=for-the-badge&logo=Github)
+![Github](https://img.shields.io/badge/-Github-FFB6C1?style=for-the-badge&logo=Github)
+![Github](https://img.shields.io/badge/-Github-FFB6C1?style=for-the-badge&logo=Github)
+![Github](https://img.shields.io/badge/-Github-FFB6C1?style=for-the-badge&logo=Github)
+![Github](https://img.shields.io/badge/-Github-FFB6C1?style=for-the-badge&logo=Github)
+![Github](https://img.shields.io/badge/-Github-FFB6C1?style=for-the-badge&logo=Github)
+
+Ссылки на соц сети
