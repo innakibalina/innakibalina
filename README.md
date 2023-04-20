@@ -1,4 +1,4 @@
-[![Header](https://github.com/innakibalina/innakibalina/blob/master/assets/Новое%20изображение.jpg)](https://www.linkedin.com/in/inna-kibalina-54293026a/)
+[![Header](https://github.com/innakibalina/innakibalina/blob/master/assets/Новое%20изображение%20(1).jpg)](https://www.linkedin.com/in/inna-kibalina-54293026a/)
 
 ## Меня зовут Инна. Я - начинающий тестировщик.
 
