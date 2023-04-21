@@ -23,9 +23,12 @@
 
 **JavaScript** - *решала простые задачи: создание модального окна, преобразование строки в число, сложение 2 чисел и т .д.*: [![пример js](https://img.shields.io/badge/-Примеры-FFFAFA?style=social&logo=JavaScript&logoColor=FFB6C9)](https://drive.google.com/drive/folders/1ETzwozA91AwfeSZe710CtmpbfUZzzCcf?usp=sharing)
 
-**Manual testing** - 
-**HTML** - 
+**Manual testing** - знания теории тестирования(виды тестирования,техники тест-дизайна), составление [**чек-листов**](https://docs.google.com/spreadsheets/d/12wxildQbtGzLHKHCuUNKFxiKJxldCwCriaogroXeJvU/edit?usp=sharing), тест-кейсов, заведение баг-репортов, выполнение декомпозиции требований, составление по требованиям   [**mindmap**](https://drive.google.com/drive/folders/1ETzwozA91AwfeSZe710CtmpbfUZzzCcf?usp=sharing) в miro.com
+
+**HTML** - пример страницы [html](https://drive.google.com/drive/folders/10I6LtICQM6pD_Wv7GX4-p8agcKaLSB0M?usp=sharing) с моими навыками
+
 **SQL** - 
+
 **DevTools** - 
 
 
