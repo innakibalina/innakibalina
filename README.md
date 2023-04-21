@@ -1,6 +1,6 @@
 [![Header](https://github.com/innakibalina/innakibalina/blob/master/assets/Новое%20изображение%20(1).jpg)](https://www.linkedin.com/in/inna-kibalina-54293026a/)
 
-*Клик по картинке ведёт на мой linkedn*
+
 
 ------------------
 
@@ -30,7 +30,8 @@
 **SQL** - базовый синтаксис, решение [**задач**](https://docs.google.com/spreadsheets/d/1Pwp29aZe5ZHGjDuhQzQmbPz1gTofjIczR2PyH2coq5Y/edit?usp=sharing)
 
 
+------------------
+### *Мои контакты*:
 
-
-
-Ссылки на соц сети
+[![Telegram](https://img.shields.io/badge/-Telegram-FFB6C1?style=for-the-badge&logo=Telegram)](https://t.me/innakibalina)
+[![linkedin](https://img.shields.io/badge/-linkedin-DB7093?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/inna-kibalina-54293026a/)
