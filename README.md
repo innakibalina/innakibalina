@@ -17,7 +17,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-FFFAFA?style=for-the-badge&logo=SQL&logoColor=FFB6C9)
 ![DevTools](https://img.shields.io/badge/-DevTools-FFB6C1?style=for-the-badge&logo=DevTools)
 
-**Git** - *создание удаленных репозиториев, клонирование, создание, слияние веток, создание pull-request, работа с разметкой Markdown* 
+**Git** - *создание удаленных репозиториев, клонирование, создание веток, pull-request, работа с разметкой Markdown* 
 
 **Jira** - *создание баг-репортов* [![пример js](https://img.shields.io/badge/-Примеры-FFFAFA?style=social&logo=Jira&logoColor=FFB6C1)](https://drive.google.com/drive/folders/1khgqs4zz3rq_8thGfQ1CGJfqy1guJsW_?usp=sharing)
 
