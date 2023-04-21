@@ -25,11 +25,10 @@
 
 **Manual testing** - знания теории тестирования(виды тестирования,техники тест-дизайна), составление [**чек-листов**](https://docs.google.com/spreadsheets/d/12wxildQbtGzLHKHCuUNKFxiKJxldCwCriaogroXeJvU/edit?usp=sharing), тест-кейсов, заведение баг-репортов, выполнение декомпозиции требований, составление по требованиям   [**mindmap**](https://drive.google.com/drive/folders/1ETzwozA91AwfeSZe710CtmpbfUZzzCcf?usp=sharing) в miro.com
 
-**HTML** - пример страницы [html](https://drive.google.com/drive/folders/10I6LtICQM6pD_Wv7GX4-p8agcKaLSB0M?usp=sharing) с моими навыками
+**HTML** - пример страницы [**html**](https://drive.google.com/drive/folders/10I6LtICQM6pD_Wv7GX4-p8agcKaLSB0M?usp=sharing) с моими навыками
 
-**SQL** - 
+**SQL** - базовый синтаксис, решение [**задач**](https://docs.google.com/spreadsheets/d/1Pwp29aZe5ZHGjDuhQzQmbPz1gTofjIczR2PyH2coq5Y/edit?usp=sharing)
 
-**DevTools** - 
 
 
 
